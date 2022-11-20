@@ -13,7 +13,7 @@ This interactive zine was co-developed by E.L. Guerrero and Czyka Tumaliuan to c
 
 ## Development
 
-Made with [Twine](https://twinery.org) v2.
+Made with [Twine](https://twinery.org) v2 using Chapbook 1.2.2 story format.
 
 Available at [Kwago](https://isipkwago.org/monopolyozine) and [Itch](https://hellonavi.itch.io/monopolyo).
 
