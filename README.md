@@ -33,4 +33,4 @@ Czyka Tumaliuan is a Filipina researcher, writer, and cultural worker based in t
 
 Copyright © 2022 E.L. Guerrero & Czyka Tumaliuan
 
-Published by Kwago, this work is licensed under a Creative Commons Attribution-NonCommercial-ShareA-like license (CC BY-NC-SA), version 4.0.
+Published by Kwago, this work is licensed under a Creative Commons Attribution-NonCommercial-ShareA-like licence (CC BY-NC-SA), version 4.0.
